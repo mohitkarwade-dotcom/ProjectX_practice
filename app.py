@@ -12,15 +12,7 @@ print(f"6 * 4 = {prod_result}") # Output: 24
 
 # Division (results in a float)
 div_result = 100 / 8
-print(f"100 / 8 = {div_result}") # Output: 12.5
-
-# Integer Division (discards the fractional part)
-int_div_result = 100 // 8
-print(f"100 // 8 = {int_div_result}") # Output: 12
-
-# Modulo (returns the remainder of the division)
-remainder = 10 % 3
-print(f"10 % 3 = {remainder}") # Output: 1
+#changed by mohit
 
 # Exponentiation (raising a number to a power)
 #power_result = 2 ** 5
